@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<data>
+  <resource-handler id="rh-1">
+    <context-path>/test/1</context-path>
+    <location>/Users/vadym/projects</location>
+    <allow-modification>true</allow-modification>
+    <modify-roles>admin</modify-roles>
+  </resource-handler>
+  <resource-handler id="rh-2">
+    <context-path>/test/2</context-path>
+    <location>/Users/vadym/courses</location>
+    <allow-modification>true</allow-modification>
+    <modify-roles>admin</modify-roles>
+  </resource-handler>
+  <resource-handler id="rh-3">
+    <context-path>/test/3</context-path>
+    <location>/Users/vadym/books</location>
+    <allow-modification>true</allow-modification>
+    <modify-roles>admin</modify-roles>
+  </resource-handler>
+</data>
